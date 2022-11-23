@@ -1,4 +1,4 @@
-COMPONENT = "payment"
+COMPONENT = "frontend"
 ENV       = "prod"
 
 desired_capacity = 2
